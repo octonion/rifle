@@ -1,0 +1,638 @@
+         name          |        team        |  art   |  arc  | n  
+-----------------------+--------------------+--------+-------+----
+ Mindy Miles           | TCU                | 596.82 | 52.00 | 11
+ Ginny Thrasher        | West Virginia      | 596.00 | 49.00 | 10
+ Sagen Maddalena       | Alaska Fairbanks   | 595.82 | 48.57 | 11
+ Lucas Kozeniesky      | North Carolina St. | 595.00 | 46.17 | 13
+ Milica Babic          | West Virginia      | 594.83 | 48.67 | 12
+ Heather Kirby         | Kentucky           | 594.58 | 44.33 | 12
+ Ivan Roe              | Murray St.         | 594.10 | 45.67 | 10
+ Rachel Garner         | TCU                | 593.92 | 43.60 | 12
+ Mackenzie Martin      | Murray St.         | 593.09 | 42.33 | 11
+ Elizabeth Gratz       | West Virginia      | 592.83 | 43.67 | 12
+ Spencer Cap           | Air Force          | 592.75 | 44.33 | 12
+ Alathea Sellars       | Murray St.         | 592.50 | 42.00 | 10
+ Lauren Phillips       | North Carolina St. | 592.46 | 44.50 | 13
+ Brandon Muske         | Jacksonville St.   | 592.08 | 47.00 | 13
+ Ali Weisz             | Ole Miss           | 592.00 | 45.75 | 12
+ Dacotah Faught        | Nebraska           | 592.00 | 44.75 | 12
+ Ryan Jacobs           | Air Force          | 592.00 | 45.67 | 12
+ Sally Li              | TCU                | 591.75 | 47.20 | 12
+ Rhiann Travis         | Ohio State         | 591.67 | 44.67 | 15
+ Casey Lutz            | TCU                | 591.17 | 45.75 | 12
+ Logan Ogden           | Air Force          | 591.08 | 35.75 | 12
+ Drew Cheezum          | Ohio State         | 591.07 | 42.00 | 15
+ Mitchell Van Patten   | Nevada             | 590.80 | 40.50 | 10
+ Anna Weilbacher       | Air Force          | 590.50 | 42.67 | 12
+ Jean-Pierre Lucas     | West Virginia      | 590.42 | 46.33 | 12
+ Michael Steinel       | Ohio State         | 590.07 | 40.33 | 15
+ Rachel Martin         | Nebraska           | 589.92 | 44.25 | 12
+ Catherine Miller      | TCU                | 589.83 | 43.00 | 12
+ Ben Estes             | Murray St.         | 589.60 | 39.33 | 10
+ Cathryn Papasodora    | Kentucky           | 589.20 | 40.50 | 10
+ Jacob Buchanan        | Ohio State         | 589.00 | 36.25 | 14
+ Bobby Broadstreet     | Murray St.         | 588.91 | 40.67 | 11
+ Billy Azzinaro        | Kentucky           | 588.83 | 45.00 | 12
+ Mark Matheny          | Ohio State         | 588.80 | 43.00 | 15
+ Sarah Jameson         | Nevada             | 588.70 | 44.00 | 10
+ Nicole Hankey         | TCU                | 588.64 | 39.33 | 11
+ Bailey Powell         | UTEP               | 588.40 | 40.00 | 10
+ Marvin Lewis          | Army               | 588.36 | 40.13 | 11
+ Soren Butler          | Alaska Fairbanks   | 588.36 | 39.43 | 11
+ Emily Capaul          | Nevada             | 588.11 | 43.00 |  9
+ Morgan Phillips       | West Virginia      | 588.09 | 42.00 | 11
+ Dakota Spivey         | North Georgia      | 588.00 | 36.00 |  7
+ Jess Haig             | Ole Miss           | 587.83 | 40.71 | 12
+ Zach Strohl           | Akron              | 587.60 | 36.00 | 10
+ Jaycee Carter         | Nebraska           | 587.58 | 36.50 | 12
+ Jason Spaude          | Kentucky           | 587.58 | 38.00 | 12
+ Josh Black            | Ohio State         | 587.47 | 38.75 | 15
+ Barbara Schlapfer     | Murray St.         | 587.44 | 45.00 |  9
+ Hanna Carr            | Kentucky           | 587.33 | 37.00 | 12
+ Samantha Peterson     | Nebraska           | 586.67 | 38.00 | 12
+ Danielle Cuomo        | Army               | 586.64 | 37.88 | 11
+ Harley Gardner        | Ole Miss           | 586.58 | 37.38 | 12
+ Spencer Brandon       | Air Force          | 586.50 | 40.33 | 12
+ Sonya May             | Kentucky           | 586.33 | 40.67 | 12
+ Leighton Dempster     | Memphis            | 586.33 | 38.00 | 12
+ Jessica Kinder        | UTEP               | 586.33 | 42.00 |  6
+ Meike Drewell         | Murray St.         | 586.25 | 33.00 |  8
+ Haylea Broughton      | Memphis            | 585.92 | 33.50 | 12
+ Barrett Ray           | TCU                | 585.91 | 41.33 | 11
+ Luke Johnson          | Alaska Fairbanks   | 585.82 | 36.86 | 11
+ Amy Hammer            | Navy               | 585.80 | 32.00 |  5
+ Rachel Benesh         | Nevada             | 585.70 | 37.00 | 10
+ Anthony Cuozzo        | Ohio State         | 585.57 |       |  7
+ Jenna Bethea          | Kentucky           | 585.44 | 34.00 |  9
+ JT Schnering          | Alaska Fairbanks   | 585.36 | 39.71 | 11
+ Levi Clark            | Memphis            | 585.27 | 36.50 | 11
+ Thomas Sarant         | Navy               | 585.20 | 41.00 | 10
+ Nina Radulovic        | Nebraska           | 585.17 | 35.25 | 12
+ Ariana Grabowski      | TCU                | 585.08 | 37.00 | 12
+ Jordan Miller         | Nebraska           | 585.00 |       |  1
+ Will Anti             | West Virginia      | 584.92 | 39.67 | 12
+ Karly Potts           | Morehead St.       | 584.70 | 34.50 | 10
+ Nick Learn            | Air Force          | 584.67 | 38.67 | 12
+ Maddy Erikson         | Army               | 584.45 | 36.88 | 11
+ Amy Fister            | Memphis            | 584.27 | 34.00 | 11
+ Justin Nissen         | Nevada             | 584.22 | 32.00 |  9
+ Kaitlin Korinek       | UT Martin          | 584.20 | 33.33 | 10
+ Robert Scott          | Alaska Fairbanks   | 584.09 | 39.00 | 11
+ Nathan Brewer         | Army               | 584.00 | 38.25 | 11
+ Payne Nunn            | Army               | 584.00 | 36.88 | 11
+ Daniel Jonas          | Navy               | 584.00 | 34.00 | 10
+ Amy Gentry            | Alaska Fairbanks   | 583.91 | 34.43 | 11
+ Caitlyn Ford          | North Carolina St. | 583.77 | 32.86 | 13
+ Jason Scharbel        | Kentucky           | 583.58 | 34.00 | 12
+ Kayla Gadeken         | Nebraska           | 583.50 | 34.33 | 10
+ Carter Santrock       | Jacksonville St.   | 583.38 | 33.00 | 13
+ Ian Foos              | Kentucky           | 583.33 | 34.00 |  9
+ Hayley Carroll        | Ole Miss           | 583.08 | 34.63 | 12
+ Claire Zanti          | North Carolina St. | 582.82 | 34.00 | 11
+ Liam Eberhart         | Alaska Fairbanks   | 582.75 | 34.75 |  4
+ Eli Larimer           | Nevada             | 582.70 | 47.00 | 10
+ Hannah Virga          | Nebraska           | 582.67 | 31.00 |  3
+ Josh Watson           | Navy               | 582.60 | 38.00 | 10
+ Joe Martin            | UT Martin          | 582.60 | 34.33 | 10
+ Jesse Moyer           | Morehead St.       | 582.50 | 32.00 |  8
+ Haley Wilson          | Morehead St.       | 581.83 | 30.00 |  6
+ Shelby Huber          | Murray St.         | 581.83 | 33.67 |  6
+ Alli Kissell          | Ohio State         | 581.75 |       |  4
+ Sarah Nakata          | Army               | 581.67 | 33.00 |  3
+ Carmen Fry            | Kentucky           | 581.50 | 38.00 |  8
+ Chrissy Thomas        | Ohio State         | 581.40 | 29.00 |  5
+ Connor O'Mara         | Akron              | 581.30 | 29.67 | 10
+ Jack Anderson         | West Virginia      | 581.25 | 30.00 | 12
+ Derya Pekari          | North Carolina St. | 581.18 | 34.00 | 11
+ Maneva Gill           | Nevada             | 581.00 |       |  2
+ Rachael Schoenrock    | UTEP               | 580.90 | 27.00 | 10
+ Jillian Tyler         | Ole Miss           | 580.82 | 32.29 | 11
+ Carleigh Peters       | Jacksonville St.   | 580.80 | 32.50 | 10
+ Zach Eisenberg        | North Carolina St. | 580.44 | 32.25 |  9
+ Allen Solida          | Army               | 580.22 | 33.38 |  9
+ Alex Muzzioli         | Navy               | 579.80 | 33.00 | 10
+ Kestrel Kuhne         | Navy               | 579.67 | 39.00 |  9
+ Siarra Crum           | Morehead St.       | 579.40 | 25.50 | 10
+ Rachel Kimbell        | TCU                | 579.40 | 34.50 | 10
+ Mekenna Richardson    | Jacksonville St.   | 579.25 | 26.00 | 12
+ Caleb Lloyd           | Akron              | 579.22 | 29.00 |  9
+ Makennon Doran        | Memphis            | 579.17 | 34.33 |  6
+ Alana Kelly           | Ole Miss           | 579.17 | 30.71 | 12
+ Emiliano Concha-Toro  | Army               | 579.11 | 31.38 |  9
+ Austin Cock           | Jacksonville St.   | 579.09 | 31.00 | 11
+ Tyler Ramos           | Jacksonville St.   | 579.00 | 24.00 |  5
+ Sarah Sutton          | Nebraska           | 579.00 | 26.67 |  7
+ Kristyn Trump         | Ole Miss           | 578.90 | 30.17 | 10
+ Morgan Duerr          | Kentucky           | 578.89 | 27.00 |  9
+ Trace Haynes          | Jacksonville St.   | 578.82 | 32.00 | 11
+ Amberlie Ezell        | Memphis            | 578.70 | 24.00 | 10
+ Deanna Binnie         | Ohio State         | 578.67 |       |  3
+ David Sink            | Jacksonville St.   | 578.67 | 37.50 | 12
+ Haylee Schoenrock     | UTEP               | 578.56 |       |  9
+ Anthony Jackson       | Akron              | 578.50 | 31.00 | 10
+ Rhianna Lichtenthal   | Army               | 578.43 | 30.00 |  7
+ Brandon Bryer         | Morehead St.       | 578.33 | 36.50 |  9
+ Maddie Korthas        | Nebraska           | 578.20 | 30.00 |  5
+ Zach Schmidt          | Jacksonville St.   | 578.18 | 35.00 | 11
+ Kendal Elder          | Ohio State         | 578.00 | 35.00 |  5
+ Brigitte Curcio       | UT Martin          | 578.00 | 31.33 |  9
+ Abby Monique          | UTEP               | 577.80 | 32.00 | 10
+ Ruthanne Conner       | North Georgia      | 577.67 | 30.50 | 12
+ Sarah Fink            | Morehead St.       | 577.67 | 30.50 |  9
+ Libby Mostert         | Army               | 577.63 | 30.25 |  8
+ Cierra Terrizzi       | Akron              | 577.60 | 28.00 | 10
+ Allison Auten         | Citadel            | 577.50 |       | 12
+ Nicholle Benedict     | TCU                | 577.25 |       |  4
+ Rachel Yager          | Nebraska           | 577.22 | 28.00 |  9
+ Nathan Taylor         | Alaska Fairbanks   | 577.20 | 30.60 |  5
+ Nick Kanellis         | Army               | 577.13 | 30.88 |  8
+ Alexa Potts           | Morehead St.       | 576.80 | 35.00 | 10
+ Joe Fischer           | Morehead St.       | 576.70 | 26.50 | 10
+ Anika Corsi           | Jacksonville St.   | 576.60 |       |  5
+ Joshua Kovach         | Akron              | 576.50 | 38.00 |  6
+ Jack Berhorst         | Memphis            | 576.40 | 29.25 | 10
+ Will Marciniak        | North Carolina St. | 576.25 | 28.00 | 12
+ Maggie Ehmann         | Army               | 576.13 | 29.00 |  8
+ Julia Hatch           | Akron              | 575.90 | 24.67 | 10
+ Emily Haag            | TCU                | 575.80 | 38.00 | 10
+ Seth Baker            | Morehead St.       | 575.78 | 28.50 |  9
+ Quintin Wotring       | Ohio State         | 575.70 | 33.00 | 10
+ Lauryn Cinadr         | Akron              | 575.67 | 30.00 |  6
+ Samantha Sandifer     | Ole Miss           | 575.56 | 26.40 |  9
+ Garrett Rabel         | Jacksonville St.   | 575.43 |       |  7
+ Brendan Whitaker      | Ohio State         | 575.40 | 30.00 |  5
+ Grace Nelson          | Alaska Fairbanks   | 575.29 | 29.17 |  7
+ Courtney Weekley      | Ga. Southern       | 574.86 | 18.00 |  7
+ Lily Graham           | John Jay           | 574.86 |       |  7
+ Brandon Henson        | Jacksonville St.   | 574.75 |       |  4
+ Rosemary Kramer       | Ga. Southern       | 574.57 | 31.00 |  7
+ Brandon Pippin        | Navy               | 574.50 | 23.00 |  8
+ Kera Kaufman          | Akron              | 574.50 | 30.50 |  6
+ Mara Rouse            | UTEP               | 574.40 | 32.00 | 10
+ Nicholas Paisker      | Coast Guard        | 574.27 | 52.00 | 11
+ Randi Loudin          | Ole Miss           | 574.00 | 28.20 |  9
+ Sarah Hickey          | North Carolina St. | 574.00 |       |  1
+ Kyle Ordille          | Jacksonville St.   | 573.80 |       |  5
+ Andrew Miller         | Kentucky           | 573.75 |       |  4
+ Tori Lewis            | Ga. Southern       | 573.71 | 20.00 |  7
+ Jacob Hunter          | VMI                | 573.63 |       |  8
+ Brianna Sawyers       | UT Martin (W)      | 573.60 | 25.33 | 10
+ Claire Spina          | North Carolina St. | 573.60 | 25.50 |  5
+ Jennifer Plocinik     | UT Martin (W)      | 573.50 | 27.00 | 10
+ Ethan Cook            | Army               | 573.11 | 26.63 |  9
+ Cullen Wargo          | North Carolina St. | 573.00 | 26.00 |  2
+ Bailey Urbach         | Ohio State         | 573.00 |       |  4
+ Andrew Solomonides    | Army               | 572.88 | 25.25 |  8
+ Mike Garner           | Army               | 572.70 | 27.38 | 10
+ Katie Bridges         | TCU                | 572.40 |       |  5
+ Maggie Guetersloh     | Navy               | 572.40 |       |  5
+ Colton Poole          | Citadel            | 572.25 |       | 12
+ Eric Sloan            | Murray St.         | 572.20 | 25.00 |  5
+ Sydney Goldschlag     | Akron              | 572.17 | 24.00 |  6
+ Jared Rice            | North Georgia      | 572.14 | 31.00 |  7
+ Rebecca Green         | Akron              | 572.00 | 27.00 |  6
+ Noah Kwock            | Air Force          | 572.00 |       |  1
+ Eli Rischling         | Memphis            | 571.73 | 25.50 | 11
+ Nash Richardson       | Navy               | 571.57 | 27.00 |  7
+ Kathryn Youngblood    | Ga. Southern       | 571.50 |       |  2
+ Maranda Nelson        | UTEP               | 571.50 | 26.00 |  8
+ Lilly Vonderau        | Alabama Birmingham | 571.33 | 23.00 |  9
+ Abby Votava           | Memphis            | 571.33 | 24.67 |  9
+ Lucas Gilliland       | North Georgia      | 571.11 | 29.50 |  9
+ Andrew Abernathy      | North Georgia      | 570.89 | 25.00 |  9
+ Tyler Lefebvre        | North Carolina St. | 570.83 | 22.67 |  6
+ Morgan Long           | Citadel            | 570.50 |       | 10
+ Alexandria Harrington | Coast Guard        | 570.13 |       |  8
+ Andrew Hickey         | VMI                | 570.13 |       |  8
+ David Turner          | North Georgia      | 570.10 | 21.50 | 10
+ Sarah Schnupp         | USciences          | 570.00 |       |  9
+ Logan Hunt            | UT Martin          | 569.44 | 28.00 |  9
+ Dan Hall              | Morehead St.       | 569.33 | 24.50 |  9
+ Hunter Behrends       | Jacksonville St.   | 569.25 |       |  4
+ Richie Parra          | Citadel            | 569.18 |       | 11
+ Brianna Shaw          | North Georgia      | 568.83 | 34.25 |  6
+ Samantha Alexander    | VMI (W)            | 568.50 |       |  8
+ Ashley Coots          | UT Martin (W)      | 568.30 | 26.33 | 10
+ Sean Roehrs           | Akron              | 568.20 | 14.00 |  5
+ William Davidson      | VMI                | 568.17 |       |  6
+ Alyson Sylvester      | UT Martin (W)      | 567.90 | 26.67 | 10
+ Melanie West          | Morehead St.       | 567.78 | 26.50 |  9
+ Alex Bapties          | UT Martin          | 567.56 | 24.33 |  9
+ Angelica Dearaujo     | John Jay           | 567.00 | 92.00 |  7
+ Alex Tamboli          | UT Martin          | 567.00 | 22.67 | 10
+ Lucas Figi            | Navy               | 567.00 | 23.50 |  2
+ Danielle Makucevich   | Akron              | 566.50 | 19.00 |  2
+ Tobin Sanctuary       | North Georgia      | 566.00 | 24.50 | 10
+ Nick Reynolds         | VMI                | 565.88 |       |  8
+ Katie Brown           | Nebraska           | 565.80 | 24.00 |  5
+ Chris Milliken        | VMI                | 565.00 |       |  7
+ George Williams       | North Carolina St. | 564.67 | 19.00 |  3
+ Alexander McAlear     | Citadel            | 564.50 |       | 12
+ Mathew Lusardi        | VMI                | 564.40 |       |  5
+ Alice Chiu            | VMI (W)            | 564.20 |       |  5
+ Monthserrat Serna     | UTEP               | 564.00 |       |  3
+ Cierra Holcombe       | Wofford            | 563.71 | 18.00 |  7
+ Kyle Cox              | Air Force          | 563.00 |       |  6
+ Ronald Kopec          | John Jay           | 562.83 |       |  6
+ Sarah Banks           | Alabama Birmingham | 562.50 | 28.00 |  8
+ Lydia Odlin           | Ga. Southern       | 562.17 | 13.00 |  6
+ Alex Fedorko          | Akron              | 562.00 | 16.00 |  5
+ Kris Mantel           | Akron              | 562.00 | 20.00 |  3
+ Matthew Davenport     | Citadel            | 561.33 |       |  9
+ Zachary Johnson       | VMI                | 561.00 |       |  3
+ Selina Curren         | Alabama Birmingham | 560.60 | 15.00 |  5
+ Patrick Sardo         | Ohio State         | 560.33 |       |  3
+ Lindsey Flint         | UT Martin (W)      | 558.29 | 24.00 |  7
+ Andre Delcalzo        | UT Martin          | 557.67 |       |  3
+ Meraleigh Randle      | TCU                | 557.50 |       |  2
+ Katherine Watson      | VMI (W)            | 557.38 |       |  8
+ Leah Fenwrick-Wallace | Citadel (W)        | 557.27 |       | 11
+ Randall Ford          | Coast Guard        | 556.62 | 19.00 | 13
+ Rachel Jankelow       | VMI (W)            | 556.50 |       |  8
+ Brent Morgan          | Akron              | 556.33 | 12.00 |  3
+ John Pitman           | VMI                | 556.00 |       |  1
+ Patrick Meyer         | Citadel            | 556.00 |       |  9
+ Kelly Mathesius       | MIT                | 554.22 | 20.50 |  9
+ Kaitlyn Morrison      | VMI (W)            | 554.00 |       |  1
+ Nicholas Hunter       | Wofford            | 553.86 | 12.00 |  7
+ Joseph Ferguson       | Citadel            | 553.63 |       |  8
+ Kerrie Lightfoot      | VMI (W)            | 553.57 |       |  7
+ Marlee Reynolds       | Akron              | 552.00 | 12.00 |  2
+ Sabrina Bell          | VMI (W)            | 551.50 |       |  4
+ Amanda Mayo           | UT Martin (W)      | 551.13 | 16.00 |  8
+ Ella Von Canon        | Alabama Birmingham | 551.00 |       |  3
+ Brandi Duzz           | Citadel (W)        | 549.64 |       | 11
+ Tommy Simrill         | Citadel            | 549.44 |       |  9
+ Emily Stover          | Alabama Birmingham | 547.67 | 15.00 |  9
+ Loyce Lightfoot       | VMI (W)            | 547.50 |       |  4
+ Seth Flanagan         | Wofford            | 547.29 | 17.00 |  7
+ Marshall Grant        | Coast Guard        | 547.18 | 13.00 | 11
+ Chastity Price        | Ga. Southern       | 547.00 | 17.00 |  6
+ Jacob Dupree          | Coast Guard        | 546.38 | 14.50 | 13
+ Ida Sato              | John Jay           | 546.29 |       |  7
+ Andrew Visconti       | USciences          | 546.22 |       |  9
+ Erin Bell             | UT Martin (W)      | 543.00 |       |  1
+ Kristie Lloyd         | Alabama Birmingham | 543.00 | 13.00 |  9
+ Dylan Lorence         | Coast Guard        | 542.38 |  7.50 |  8
+ Isaac King            | Alabama Birmingham | 540.00 |       |  4
+ Shadonna Littlejohn   | Citadel (W)        | 539.10 |       | 10
+ Carli Cline           | Citadel (W)        | 538.78 |       |  9
+ Gregory Lee           | MIT                | 538.50 | 23.00 |  4
+ Susana Sanchez        | John Jay           | 537.67 |       |  6
+ Kevin Ng              | MIT                | 537.00 | 15.00 |  5
+ Alaric Stone          | Coast Guard        | 535.67 | 14.50 |  6
+ Raven Wills           | Citadel (W)        | 535.63 |       |  8
+ Nyjah Turner          | Coast Guard        | 535.50 |  6.00 |  6
+ Melissa Brizzi        | Coast Guard        | 532.89 |  8.00 |  9
+ Eliza Kotowska        | John Jay           | 532.50 |       |  2
+ Faith Totherow        | Citadel (W)        | 531.91 |       | 11
+ Angela Kang           | USciences          | 528.44 |       |  9
+ Joseph Busching       | Coast Guard        | 528.25 |  7.50 |  8
+ Nick Zsoldos          | USciences          | 528.00 |       |  9
+ Joelle Henry          | VMI (W)            | 528.00 |       |  3
+ Jennifer Middlebrook  | Ga. Southern       | 528.00 |       |  2
+ Marc Suda             | John Jay           | 526.86 |       |  7
+ Steven Bugg           | Alabama Birmingham | 524.80 | 12.00 |  5
+ Lauren Stabler        | USciences          | 524.43 | 13.00 |  7
+ David Rose            | Coast Guard        | 524.25 |  8.00 |  4
+ Joel Solis            | MIT                | 523.13 |  8.00 |  8
+ William Caruso        | MIT                | 521.63 |  7.00 |  8
+ Kaden Nichols         | Coast Guard        | 521.33 | 13.50 |  6
+ Reid Schuster         | Wofford            | 520.67 | 12.00 |  6
+ Dylan Modesitt        | MIT                | 520.33 |       |  6
+ Allie Tuman           | USciences          | 520.25 |       |  8
+ George Conde          | John Jay           | 520.00 |       |  1
+ Kelia Aardema         | VMI (W)            | 519.00 |       |  1
+ Zachry Hunter         | Wofford            | 518.57 |  9.00 |  7
+ Lindsey Hill          | Alabama Birmingham | 516.00 |       |  2
+ Matt Popowicz         | USciences          | 515.89 |       |  9
+ Jamie Foster          | VMI (W)            | 509.67 |       |  3
+ Rachel Hubal          | USciences          | 507.56 |  6.00 |  9
+ Thomas Rick           | MIT                | 507.00 |  4.00 |  7
+ Tierra Price          | Citadel (W)        | 506.22 |       |  9
+ Andrej Quatrone       | USciences          | 505.50 |  5.00 |  8
+ Jesus Herrera         | MIT                | 503.33 |       |  6
+ Alex Pacheco          | MIT                | 500.88 |  7.00 |  8
+ Anita Varkey          | USciences          | 489.33 |       |  3
+ Carson Howell         | Wofford            | 486.00 |       |  1
+ Chris Makosiej        | USciences          | 484.25 |  7.00 |  4
+ Elijah Miller         | MIT                | 481.00 |  6.50 |  7
+ Efraim Helman         | MIT                | 468.00 |  4.00 |  2
+ Logan Short           | Alabama Birmingham | 467.00 |       |  1
+ Yaakov Helman         | MIT                | 462.00 |  5.00 |  1
+ Nick Makosiej         | USciences          | 460.00 |       |  2
+ Kevin Petrovic        | MIT                | 456.67 |       |  3
+ Brittany Mahoney      | USciences          | 449.50 |       |  2
+ Christina Tipton      | USciences          | 423.50 |       |  2
+ Alexander Laiman      | MIT                | 330.50 |       |  2
+ Thomas Nelligan       | USciences          | 316.00 |       |  1
+(326 rows)
+
+         name          |        team        |  sbt   |  sbc  | n  
+-----------------------+--------------------+--------+-------+----
+ Ginny Thrasher        | West Virginia      | 589.50 | 40.00 | 10
+ Ivan Roe              | Murray St.         | 588.10 | 34.00 | 10
+ Sagen Maddalena       | Alaska Fairbanks   | 585.55 | 35.14 | 11
+ Ariana Grabowski      | TCU                | 585.25 | 31.40 | 12
+ Jean-Pierre Lucas     | West Virginia      | 585.08 | 32.80 | 12
+ Casey Lutz            | TCU                | 583.92 | 33.00 | 12
+ Mindy Miles           | TCU                | 583.36 | 32.25 | 11
+ Elizabeth Gratz       | West Virginia      | 583.33 | 30.60 | 12
+ Rachel Garner         | TCU                | 583.17 | 28.40 | 12
+ Hanna Carr            | Kentucky           | 582.67 | 29.00 | 12
+ Morgan Phillips       | West Virginia      | 582.33 | 28.40 | 12
+ Mackenzie Martin      | Murray St.         | 582.09 | 26.67 | 11
+ Ryan Jacobs           | Air Force          | 581.58 | 27.33 | 12
+ Drew Cheezum          | Ohio State         | 581.53 | 25.40 | 15
+ Milica Babic          | West Virginia      | 581.50 | 28.40 | 12
+ Mitchell Van Patten   | Nevada             | 581.40 | 31.50 | 10
+ Ben Estes             | Murray St.         | 581.18 | 27.67 | 11
+ Amy Fister            | Memphis            | 580.73 | 30.50 | 11
+ Anna Weilbacher       | Air Force          | 580.58 | 28.67 | 12
+ Sally Li              | TCU                | 580.42 | 26.60 | 12
+ Barbara Schlapfer     | Murray St.         | 580.33 | 28.00 |  9
+ Lucas Kozeniesky      | North Carolina St. | 580.23 | 26.29 | 13
+ Joe Martin            | UT Martin          | 580.20 | 32.00 | 10
+ Bobby Broadstreet     | Murray St.         | 579.18 | 31.33 | 11
+ Nicole Hankey         | TCU                | 579.17 | 25.50 | 12
+ Spencer Cap           | Air Force          | 579.08 | 28.67 | 12
+ Meike Drewell         | Murray St.         | 578.78 | 25.67 |  9
+ Soren Butler          | Alaska Fairbanks   | 578.73 | 26.86 | 11
+ Luke Johnson          | Alaska Fairbanks   | 578.64 | 25.71 | 11
+ Samantha Peterson     | Nebraska           | 578.50 | 29.50 | 12
+ Daniel Jonas          | Navy               | 578.50 | 31.00 | 10
+ Logan Ogden           | Air Force          | 578.50 | 27.00 | 12
+ Billy Azzinaro        | Kentucky           | 578.33 | 26.00 | 12
+ Lauren Phillips       | North Carolina St. | 578.31 | 27.86 | 13
+ Will Anti             | West Virginia      | 578.17 | 26.80 | 12
+ Marvin Lewis          | Army               | 577.27 | 27.00 | 11
+ Alathea Sellars       | Murray St.         | 577.25 | 20.00 |  8
+ Mark Matheny          | Ohio State         | 577.20 | 24.60 | 15
+ Levi Clark            | Memphis            | 576.91 | 27.50 | 11
+ Rachel Martin         | Nebraska           | 576.75 | 27.80 | 12
+ Jason Scharbel        | Kentucky           | 576.67 | 27.50 | 12
+ Jason Spaude          | Kentucky           | 576.58 | 22.33 | 12
+ Heather Kirby         | Kentucky           | 576.42 | 25.00 | 12
+ Sonya May             | Kentucky           | 576.42 | 23.00 | 12
+ Anthony Cuozzo        | Ohio State         | 576.38 | 38.00 |  8
+ Nathan Brewer         | Army               | 576.36 | 27.63 | 11
+ Danielle Cuomo        | Army               | 576.36 | 24.75 | 11
+ Michael Steinel       | Ohio State         | 576.07 | 28.00 | 15
+ Mekenna Richardson    | Jacksonville St.   | 575.77 | 23.50 | 13
+ Harley Gardner        | Ole Miss           | 575.75 | 26.63 | 12
+ Ali Weisz             | Ole Miss           | 575.33 | 24.75 | 12
+ Dacotah Faught        | Nebraska           | 575.17 | 25.25 | 12
+ Jack Berhorst         | Memphis            | 575.10 | 26.25 | 10
+ Payne Nunn            | Army               | 574.73 | 24.13 | 11
+ Josh Black            | Ohio State         | 574.67 | 24.60 | 15
+ Zach Strohl           | Akron              | 574.40 | 27.60 | 10
+ Brandon Muske         | Jacksonville St.   | 574.15 | 19.50 | 13
+ Caleb Lloyd           | Akron              | 574.10 | 29.60 | 10
+ Nina Radulovic        | Nebraska           | 574.00 | 23.50 | 12
+ Jess Haig             | Ole Miss           | 574.00 | 23.13 | 12
+ David Sink            | Jacksonville St.   | 573.83 | 21.00 | 12
+ Jacob Buchanan        | Ohio State         | 573.64 | 25.20 | 14
+ Will Marciniak        | North Carolina St. | 573.62 | 24.71 | 13
+ Barrett Ray           | TCU                | 573.45 | 26.00 | 11
+ Rhiann Travis         | Ohio State         | 573.25 | 28.60 | 12
+ Cathryn Papasodora    | Kentucky           | 573.10 | 22.00 | 10
+ Alli Kissell          | Ohio State         | 573.00 | 22.00 |  5
+ Julia Hatch           | Akron              | 572.90 | 26.00 | 10
+ Rachael Schoenrock    | UTEP               | 572.70 | 29.00 | 10
+ Eli Larimer           | Nevada             | 572.70 | 25.00 | 10
+ JT Schnering          | Alaska Fairbanks   | 572.64 | 25.71 | 11
+ Liam Eberhart         | Alaska Fairbanks   | 572.60 | 23.80 |  5
+ Catherine Miller      | TCU                | 572.55 | 17.33 | 11
+ Zach Schmidt          | Jacksonville St.   | 572.42 | 22.00 | 12
+ Sarah Jameson         | Nevada             | 572.30 | 20.00 | 10
+ Josh Watson           | Navy               | 572.30 | 26.00 | 10
+ Amy Gentry            | Alaska Fairbanks   | 572.27 | 22.29 | 11
+ Quintin Wotring       | Ohio State         | 572.22 | 24.33 |  9
+ Amy Hammer            | Navy               | 572.20 | 18.00 |  5
+ Seth Baker            | Morehead St.       | 571.40 | 20.50 | 10
+ Allen Solida          | Army               | 571.22 | 24.50 |  9
+ Rachel Kimbell        | TCU                | 571.18 | 24.00 | 11
+ Dakota Spivey         | North Georgia      | 571.14 | 25.00 |  7
+ Carter Santrock       | Jacksonville St.   | 571.08 | 30.00 | 12
+ Shelby Huber          | Murray St.         | 571.00 | 20.33 |  6
+ Carmen Fry            | Kentucky           | 571.00 | 20.00 |  9
+ Haylea Broughton      | Memphis            | 570.92 | 25.00 | 12
+ Alex Muzzioli         | Navy               | 570.80 | 29.00 | 10
+ Kaitlin Korinek       | UT Martin          | 570.80 | 17.00 | 10
+ Nick Learn            | Air Force          | 570.75 | 22.33 | 12
+ Garrett Rabel         | Jacksonville St.   | 570.55 | 22.50 | 11
+ Emily Capaul          | Nevada             | 570.40 | 16.00 | 10
+ Joe Fischer           | Morehead St.       | 570.40 | 30.00 | 10
+ Trace Haynes          | Jacksonville St.   | 570.33 | 16.50 | 12
+ Thomas Sarant         | Navy               | 570.30 | 21.00 | 10
+ Deanna Binnie         | Ohio State         | 570.20 | 27.50 |  5
+ Jaycee Carter         | Nebraska           | 570.08 | 26.00 | 12
+ Jordan Miller         | Nebraska           | 570.00 |       |  1
+ Brandon Bryer         | Morehead St.       | 569.70 | 25.50 | 10
+ Caitlyn Ford          | North Carolina St. | 569.69 | 23.57 | 13
+ Kayla Gadeken         | Nebraska           | 569.60 | 22.00 | 10
+ Tyler Ramos           | Jacksonville St.   | 569.43 | 24.00 |  7
+ Sarah Hickey          | North Carolina St. | 569.00 |       |  1
+ Rachel Yager          | Nebraska           | 569.00 | 23.67 |  9
+ Claire Zanti          | North Carolina St. | 568.82 | 20.17 | 11
+ Anthony Jackson       | Akron              | 568.78 | 27.50 |  9
+ Kendal Elder          | Ohio State         | 568.50 | 29.00 |  4
+ Ruthanne Conner       | North Georgia      | 568.33 | 20.00 | 12
+ Brendan Whitaker      | Ohio State         | 568.25 | 27.00 |  4
+ Justin Nissen         | Nevada             | 568.20 | 25.00 | 10
+ Emiliano Concha-Toro  | Army               | 568.11 | 24.50 |  9
+ Sarah Fink            | Morehead St.       | 568.11 | 20.50 |  9
+ Cierra Terrizzi       | Akron              | 567.90 | 23.40 | 10
+ Hayley Carroll        | Ole Miss           | 567.82 | 22.43 | 11
+ Rachel Benesh         | Nevada             | 567.75 | 16.00 |  8
+ Nash Richardson       | Navy               | 567.75 | 16.00 |  8
+ Robert Scott          | Alaska Fairbanks   | 567.64 | 22.29 | 11
+ Alexa Potts           | Morehead St.       | 567.60 | 18.00 | 10
+ Spencer Brandon       | Air Force          | 567.58 | 24.00 | 12
+ Makennon Doran        | Memphis            | 567.29 | 14.50 |  7
+ Connor O'Mara         | Akron              | 567.20 | 22.00 | 10
+ Alana Kelly           | Ole Miss           | 567.17 | 21.50 | 12
+ Grace Nelson          | Alaska Fairbanks   | 567.17 | 20.80 |  6
+ Dan Hall              | Morehead St.       | 566.90 | 21.00 | 10
+ Haley Wilson          | Morehead St.       | 566.83 | 19.00 |  6
+ Leighton Dempster     | Memphis            | 566.83 | 19.25 | 12
+ Sarah Schnupp         | USciences          | 566.78 |       |  9
+ Jenna Bethea          | Kentucky           | 566.56 | 23.00 |  9
+ Hannah Virga          | Nebraska           | 566.50 | 19.00 |  4
+ Eric Sloan            | Murray St.         | 566.40 | 20.50 |  5
+ Kestrel Kuhne         | Navy               | 566.22 | 23.00 |  9
+ Nathan Taylor         | Alaska Fairbanks   | 566.20 | 21.20 |  5
+ Austin Cock           | Jacksonville St.   | 566.11 | 24.00 |  9
+ Randi Loudin          | Ole Miss           | 565.67 | 23.20 |  9
+ Kristyn Trump         | Ole Miss           | 565.40 | 22.17 | 10
+ Marina Noble          | Ole Miss           | 565.00 | 21.50 |  5
+ Ethan Cook            | Army               | 565.00 | 21.38 |  9
+ Katie Bridges         | TCU                | 565.00 |       |  5
+ Amberlie Ezell        | Memphis            | 564.67 | 21.00 |  9
+ Jesse Moyer           | Morehead St.       | 564.57 | 19.00 |  7
+ Maddy Erikson         | Army               | 564.50 | 22.00 | 10
+ Bailey Powell         | UTEP               | 564.50 | 15.00 | 10
+ Bailey Urbach         | Ohio State         | 564.20 | 18.50 |  5
+ Jillian Tyler         | Ole Miss           | 564.09 | 17.86 | 11
+ Eli Rischling         | Memphis            | 564.08 | 21.33 | 12
+ Tobin Sanctuary       | North Georgia      | 564.00 | 18.50 | 12
+ Derya Pekari          | North Carolina St. | 563.91 | 19.14 | 11
+ Libby Mostert         | Army               | 563.75 | 20.50 |  8
+ Jennifer Plocinik     | UT Martin (W)      | 563.70 | 14.00 | 10
+ Ian Foos              | Kentucky           | 563.50 | 19.00 |  8
+ Jared Rice            | North Georgia      | 563.29 | 17.00 |  7
+ Brigitte Curcio       | UT Martin          | 563.10 | 21.33 | 10
+ Haylee Schoenrock     | UTEP               | 563.00 |       |  9
+ Mike Garner           | Army               | 562.73 | 20.38 | 11
+ Andrew Solomonides    | Army               | 562.38 | 18.00 |  8
+ Kyle Ordille          | Jacksonville St.   | 562.25 |       |  4
+ Karly Potts           | Morehead St.       | 562.11 | 21.00 |  9
+ Jack Anderson         | West Virginia      | 562.00 | 20.00 | 11
+ Abby Monique          | UTEP               | 561.90 | 16.00 | 10
+ Morgan Duerr          | Kentucky           | 561.89 | 18.00 |  9
+ Zach Eisenberg        | North Carolina St. | 561.89 | 19.20 |  9
+ Joshua Kovach         | Akron              | 561.80 | 13.50 |  5
+ Alex Tamboli          | UT Martin          | 561.20 | 11.50 | 10
+ Carleigh Peters       | Jacksonville St.   | 561.00 |       |  4
+ Mara Rouse            | UTEP               | 560.78 | 19.00 |  9
+ Alexandria Harrington | Coast Guard        | 560.63 |       |  8
+ Chrissy Thomas        | Ohio State         | 560.25 | 19.00 |  4
+ Alyson Sylvester      | UT Martin (W)      | 560.00 | 15.33 | 10
+ Maggie Ehmann         | Army               | 559.86 | 16.71 |  7
+ Andrew Abernathy      | North Georgia      | 559.67 | 15.00 |  9
+ Emily Haag            | TCU                | 559.67 | 16.00 |  9
+ Ashley Coots          | UT Martin (W)      | 559.30 | 18.67 | 10
+ Nick Kanellis         | Army               | 559.13 | 18.75 |  8
+ Andrew Hickey         | VMI                | 558.43 |       |  7
+ Brianna Shaw          | North Georgia      | 558.29 | 13.50 |  7
+ Hunter Behrends       | Jacksonville St.   | 558.25 |       |  4
+ Claire Spina          | North Carolina St. | 558.20 | 15.50 |  5
+ Brianna Sawyers       | UT Martin (W)      | 558.00 | 17.67 | 10
+ Rhianna Lichtenthal   | Army               | 557.57 | 16.71 |  7
+ Colton Poole          | Citadel            | 557.17 |       | 12
+ Cierra Holcombe       | Wofford            | 556.80 | 24.00 |  5
+ Sean Roehrs           | Akron              | 556.60 | 16.33 |  5
+ Lily Graham           | John Jay           | 556.57 | 23.00 |  7
+ Brandon Henson        | Jacksonville St.   | 556.50 |       |  2
+ Maddie Korthas        | Nebraska           | 556.40 | 11.00 |  5
+ Sarah Sutton          | Nebraska           | 556.00 | 19.67 |  7
+ Maranda Nelson        | UTEP               | 555.88 | 17.00 |  8
+ Samantha Sandifer     | Ole Miss           | 555.50 | 14.00 |  8
+ Melanie West          | Morehead St.       | 555.38 | 20.00 |  8
+ Andrew Miller         | Kentucky           | 555.25 |       |  4
+ Sydney Goldschlag     | Akron              | 555.17 | 18.67 |  6
+ Cullen Wargo          | North Carolina St. | 555.00 |       |  1
+ Danielle Makucevich   | Akron              | 555.00 | 17.00 |  1
+ Kera Kaufman          | Akron              | 554.67 | 18.00 |  6
+ Zachary Johnson       | VMI                | 554.38 |       |  8
+ Nicholle Benedict     | TCU                | 554.25 |       |  4
+ Nicholas Paisker      | Coast Guard        | 554.18 | 12.00 | 11
+ Katie Brown           | Nebraska           | 554.00 | 17.00 |  5
+ Courtney Weekley      | Ga. Southern       | 553.14 | 16.00 |  7
+ Selina Curren         | Alabama Birmingham | 553.00 |       |  2
+ Rosemary Kramer       | Ga. Southern       | 552.71 | 13.00 |  7
+ Maggie Guetersloh     | Navy               | 552.60 |       |  5
+ Lucas Figi            | Navy               | 552.50 | 21.50 |  2
+ Lilly Vonderau        | Alabama Birmingham | 552.00 | 18.00 |  1
+ David Turner          | North Georgia      | 551.75 | 16.50 |  8
+ Lindsey Flint         | UT Martin (W)      | 551.63 | 15.00 |  8
+ Logan Hunt            | UT Martin          | 551.50 |  9.00 |  8
+ Nick Reynolds         | VMI                | 550.50 |       |  8
+ Tori Lewis            | Ga. Southern       | 550.00 | 14.00 |  7
+ Lauryn Cinadr         | Akron              | 549.67 | 13.50 |  6
+ Abby Votava           | Memphis            | 549.00 |  9.50 |  9
+ Alex Bapties          | UT Martin          | 548.71 | 13.00 |  7
+ Alice Chiu            | VMI (W)            | 548.40 |       |  5
+ Samantha Alexander    | VMI (W)            | 548.38 |       |  8
+ Siarra Crum           | Morehead St.       | 548.38 | 14.00 |  8
+ William Davidson      | VMI                | 548.00 |       |  5
+ Alexander McAlear     | Citadel            | 547.75 |       | 12
+ Tyler Lefebvre        | North Carolina St. | 547.67 | 15.00 |  6
+ Alex Fedorko          | Akron              | 546.83 | 14.25 |  6
+ Mathew Lusardi        | VMI                | 546.83 |       |  6
+ Anika Corsi           | Jacksonville St.   | 546.50 |       |  2
+ Morgan Long           | Citadel            | 546.40 |       | 10
+ Rebecca Green         | Akron              | 546.33 | 14.75 |  6
+ Allison Auten         | Citadel            | 546.08 |       | 12
+ John Pitman           | VMI                | 545.71 |       |  7
+ Lucas Gilliland       | North Georgia      | 545.30 | 14.50 | 10
+ George Williams       | North Carolina St. | 545.00 | 15.00 |  3
+ Andre Delcalzo        | UT Martin          | 544.88 | 14.00 |  8
+ Andrew Visconti       | USciences          | 544.11 |       |  9
+ Dylan Lorence         | Coast Guard        | 543.75 | 12.00 |  8
+ Randall Ford          | Coast Guard        | 543.31 | 17.50 | 13
+ Jacob Hunter          | VMI                | 542.80 |       |  5
+ Marlee Reynolds       | Akron              | 542.00 | 17.50 |  2
+ Kathryn Youngblood    | Ga. Southern       | 541.50 |       |  2
+ Patrick Sardo         | Ohio State         | 541.00 |       |  3
+ Loyce Lightfoot       | VMI (W)            | 540.50 |       |  8
+ Patrick Meyer         | Citadel            | 540.44 |       |  9
+ Amanda Mayo           | UT Martin (W)      | 540.20 | 15.00 |  5
+ Katherine Watson      | VMI (W)            | 538.38 |       |  8
+ Richie Parra          | Citadel            | 538.00 |       | 10
+ Kelly Mathesius       | MIT                | 536.78 | 11.00 |  9
+ Kris Mantel           | Akron              | 536.00 | 13.50 |  3
+ Matthew Davenport     | Citadel            | 534.57 |       |  7
+ Chris Milliken        | VMI                | 533.67 |       |  3
+ Kyle Cox              | Air Force          | 533.00 |       |  2
+ Faith Totherow        | Citadel (W)        | 531.18 |       | 11
+ Rachel Jankelow       | VMI (W)            | 530.17 |       |  6
+ Angelica Dearaujo     | John Jay           | 529.71 |  8.00 |  7
+ Jacob Dupree          | Coast Guard        | 529.54 |  9.50 | 13
+ Nick Zsoldos          | USciences          | 529.44 |       |  9
+ Lydia Odlin           | Ga. Southern       | 529.17 | 10.00 |  6
+ Brandon Pippin        | Navy               | 527.00 |       |  1
+ Kevin Ng              | MIT                | 526.80 |  8.00 |  5
+ Nicholas Hunter       | Wofford            | 526.80 |  6.00 |  5
+ Chastity Price        | Ga. Southern       | 525.00 |  7.00 |  6
+ Marshall Grant        | Coast Guard        | 524.91 | 12.00 | 11
+ Ellana Avery          | VMI (W)            | 522.83 |       |  6
+ Joseph Ferguson       | Citadel            | 522.29 |       |  7
+ Matt Popowicz         | USciences          | 520.33 |       |  9
+ Angela Kang           | USciences          | 519.89 |       |  9
+ Seth Flanagan         | Wofford            | 519.60 |  8.00 |  5
+ Nyjah Turner          | Coast Guard        | 519.40 |  6.50 |  5
+ Melissa Brizzi        | Coast Guard        | 519.11 |  9.00 |  9
+ Dylan Modesitt        | MIT                | 519.00 |       |  6
+ Rachel Hubal          | USciences          | 517.43 |       |  7
+ Leah Fenwrick-Wallace | Citadel (W)        | 517.09 |       | 11
+ Gavin Asbury          | VMI                | 514.00 |       |  1
+ Carli Cline           | Citadel (W)        | 512.78 |       |  9
+ Gregory Lee           | MIT                | 512.50 |  8.00 |  4
+ Allie Tuman           | USciences          | 511.14 |       |  7
+ Tommy Simrill         | Citadel            | 511.13 |       |  8
+ Jennifer Middlebrook  | Ga. Southern       | 510.00 |       |  2
+ Raven Wills           | Citadel (W)        | 505.25 |       |  8
+ Kelia Aardema         | VMI (W)            | 503.00 |       |  2
+ Brandi Duzz           | Citadel (W)        | 502.91 |       | 11
+ George Conde          | John Jay           | 502.00 |       |  1
+ Zachry Hunter         | Wofford            | 500.50 |       |  2
+ Kerrie Lightfoot      | VMI (W)            | 499.25 |       |  4
+ Andrej Quatrone       | USciences          | 498.83 |       |  6
+ Jesus Herrera         | MIT                | 498.33 |       |  6
+ William Caruso        | MIT                | 497.88 |  4.50 |  8
+ Shadonna Littlejohn   | Citadel (W)        | 497.63 |       |  8
+ Reid Schuster         | Wofford            | 497.00 |  3.00 |  4
+ Ida Sato              | John Jay           | 495.57 |  7.00 |  7
+ David Rose            | Coast Guard        | 487.33 |  6.50 |  6
+ Alexander Laiman      | MIT                | 486.50 |       |  2
+ Ronald Kopec          | John Jay           | 483.00 |       |  7
+ Thomas Rick           | MIT                | 480.25 |  5.00 |  8
+ Kevin Petrovic        | MIT                | 474.33 |       |  3
+ Alex Pacheco          | MIT                | 474.00 |  6.00 |  7
+ Joel Solis            | MIT                | 466.67 |       |  3
+ Marc Suda             | John Jay           | 466.38 |  9.00 |  8
+ Tierra Price          | Citadel (W)        | 462.88 |       |  8
+ Lauren Stabler        | USciences          | 461.60 |       |  5
+ Susana Sanchez        | John Jay           | 456.33 |  3.00 |  6
+ Elijah Miller         | MIT                | 442.40 |  3.00 |  5
+ Efraim Helman         | MIT                | 439.00 |  2.00 |  1
+ Chris Makosiej        | USciences          | 437.75 |       |  4
+ Nick Makosiej         | USciences          | 416.67 |       |  3
+ Anita Varkey          | USciences          | 412.67 |       |  3
+ Brittany Mahoney      | USciences          | 411.67 |       |  3
+ Christina Tipton      | USciences          | 410.33 |       |  3
+ Yaakov Helman         | MIT                | 395.00 |  2.00 |  1
+ Thomas Nelligan       | USciences          | 236.00 |       |  1
+(304 rows)
+

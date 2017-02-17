@@ -18,3 +18,14 @@ rm /tmp/matches.tsv
 tail -q -n+2 tsv/individual_[0-9]*.tsv >> /tmp/individuals.tsv
 psql rifle -f loaders/load_individuals.sql
 rm /tmp/individuals.tsv
+
+tail -q -n+2 tsv/individual_details_[0-9]*.tsv >> /tmp/individuals_details.tsv
+rpl -e 'Sep. ' 'Sep ' /tmp/individuals_details.tsv
+rpl -e 'Oct. ' 'Oct ' /tmp/individuals_details.tsv
+rpl -e 'Nov. ' 'Nov ' /tmp/individuals_details.tsv
+rpl -e 'Dec. ' 'Dec ' /tmp/individuals_details.tsv
+rpl -e 'Jan. ' 'Jan ' /tmp/individuals_details.tsv
+rpl -e 'Feb. ' 'Feb ' /tmp/individuals_details.tsv
+rpl -e 'Mar. ' 'Mar ' /tmp/individuals_details.tsv
+psql rifle -f loaders/load_individuals_details.sql
+rm /tmp/individuals_details.tsv
