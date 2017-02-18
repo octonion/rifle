@@ -45,11 +45,11 @@ where p2=0;
 
 update ncaa.individuals_details
 set s1=NULL
-where k1=0;
+where s1=0;
 
 update ncaa.individuals_details
 set s2=NULL
-where k2=0;
+where s2=0;
 
 update ncaa.individuals_details
 set sb_total=NULL

@@ -31,3 +31,9 @@ psql rifle -f loaders/load_individuals_details.sql
 rm /tmp/individuals_details.tsv
 
 psql rifle -f loaders/create_meets.sql
+
+#psql rifle -f loaders/create_home.sql
+
+psql rifle -f loaders/create_scores.sql
+
+psql rifle -f cleaning/details.sql
